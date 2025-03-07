@@ -43,4 +43,4 @@ Uma landing page é uma página de destino projetada para converter visitantes e
 
 ## Licença
 
-Este projeto está sob a licença "".
+Este projeto está sob a licença MIT (https://github.com/LuhDev24/pagina_simples.git).
