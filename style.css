@@ -249,9 +249,14 @@ footer {
     .imagem-perfil img {
         margin: 20px 0;
     }
-    /* Botão "Aproveite a Oferta" correto */
-    .botao-destaque {
-        width: 90%;
-        margin: 20px auto;
+   .botao-destaque {
+        display: block; /* Faz o botão se comportar como um elemento de bloco */
+        width: 90%; /* Garante que o botão tenha 90% da largura do contêiner pai */
+        margin-left: auto;  /* Centraliza o botão horizontalmente */
+        margin-right: auto;
+        text-align: center; /* Centraliza o texto dentro do botão */
+        box-sizing: border-box; /* Inclui padding e borda na largura total */
+    }
+
     }
 }
